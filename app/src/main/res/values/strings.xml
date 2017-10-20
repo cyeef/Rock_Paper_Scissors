@@ -1,3 +1,5 @@
 <resources>
   <string name="app_name">Rock_Paper_Scissors</string>
+  <string name="pause_menu_text">Pause</string>
+  <string name="reset_menu_text">Reset</string>
 </resources>
